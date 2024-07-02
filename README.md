@@ -27,10 +27,10 @@ market or an experienced investor, Stock Pilot is equipped with the tools you ne
           * RESTful APIs: For fetching real-time stock market data and historical information.
           * Secure Storage: Implementing secure storage mechanisms to ensure user data privacy and security.
 
-      ✅ D -  Dart - A client-optimized language for fast apps on any platform
-      ✅ F -  Flutter - A UI toolkit for building natively compiled applications for mobile
-      ✅ A -  Android Studio - The official IDE for Android development
-      ✅ F -  Firebase - Backend services for real-time databases, authentication, and analytics
+                        ✅ D -  Dart - A client-optimized language for fast apps on any platform
+                        ✅ F -  Flutter - A UI toolkit for building natively compiled applications for mobile
+                        ✅ A -  Android Studio - The official IDE for Android development
+                        ✅ F -  Firebase - Backend services for real-time databases, authentication, and analytics
 
 
           
