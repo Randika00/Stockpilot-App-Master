@@ -1,5 +1,6 @@
 📱 Stock Pilot-Master Application
 
+
 Go-to mobile application for managing and tracking stock market investments! 🚀 Built with the power of Dart and the versatility of Android Studio, Stock Pilot is 
 designed to provide a seamless and intuitive experience for both novice and seasoned investors. 📊
 
@@ -9,7 +10,7 @@ Stock Pilot is a comprehensive mobile application designed to simplify the compl
 features, Stock Pilot empowers users to make informed investment decisions and keep track of their portfolio effortlessly. Whether you're a beginner exploring the stock
 market or an experienced investor, Stock Pilot is equipped with the tools you need to succeed.
 
-🌟 Features
+🌟 Features: 
 
           * 📈 Real-Time Stock Tracking: Stay updated with the latest stock prices and market trends in real-time.
           * 🔔 Custom Alerts: Set up personalized alerts to never miss a market movement.
@@ -18,7 +19,7 @@ market or an experienced investor, Stock Pilot is equipped with the tools you ne
           * 📅 Historical Data: Access historical stock data to make informed investment decisions.
           * 🔒 Secure Login: Ensure your data is safe with secure login options.
 
-🛠️ Languages and Technologies
+🛠️ Languages and Technologies: 
 
           * Dart: A powerful, modern programming language optimized for building mobile applications.
           * Flutter: A UI toolkit for crafting natively compiled applications for mobile from a single codebase.
@@ -31,6 +32,10 @@ market or an experienced investor, Stock Pilot is equipped with the tools you ne
                ✅ F -  Flutter - A UI toolkit for building natively compiled applications for mobile
                ✅ A -  Android Studio - The official IDE for Android development
                ✅ F -  Firebase - Backend services for real-time databases, authentication, and analytics
+
+ <p>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Randika00/Stockpilot-App-Master">
+</p>
 
 
           
