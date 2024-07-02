@@ -14,7 +14,8 @@ market or an experienced investor, Stock Pilot is equipped with the tools you ne
           * 📈 Real-Time Stock Tracking: Stay updated with the latest stock prices and market trends in real-time.
           * 🔔 Custom Alerts: Set up personalized alerts to never miss a market movement.
           * 📊 Detailed Analytics: Dive deep into stock performance with comprehensive charts and analytics.
-          * Feedback Submission: Enable customers to submit general feedback or suggestions through a separate form.
-          * Email Integration: Integrate email functionality to notify customers when their reviews have been received.
-          * Reporting and Analytics: Provide analytics tools to track and analyze review trends.
-          * Notification System: Implement a notification system to alert administrators of new reviews and feedback submissions.
+          * 🔍 Advanced Search: Quickly find stocks with our powerful search feature.
+          * 📅 Historical Data: Access historical stock data to make informed investment decisions.
+          * 🔒 Secure Login: Ensure your data is safe with secure login options.
+
+
