@@ -18,4 +18,16 @@ market or an experienced investor, Stock Pilot is equipped with the tools you ne
           * 📅 Historical Data: Access historical stock data to make informed investment decisions.
           * 🔒 Secure Login: Ensure your data is safe with secure login options.
 
+🛠️ Languages and Technologies
+
+          * Dart: A powerful, modern programming language optimized for building mobile applications.
+          * Flutter: A UI toolkit for crafting natively compiled applications for mobile from a single codebase.
+          * Android Studio: The official IDE for Android development, offering a robust and feature-rich development environment.
+          * Firebase: Integrated for backend services, including real-time databases, authentication, and analytics.
+          * RESTful APIs: For fetching real-time stock market data and historical information.
+          * Secure Storage: Implementing secure storage mechanisms to ensure user data privacy and security.
+
+
+
+
 
