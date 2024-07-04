@@ -2,13 +2,13 @@
 
 
 Go-to mobile application for managing and tracking stock market investments! 🚀 Built with the power of Dart and the versatility of Android Studio, Stock Pilot is 
-designed to provide a seamless and intuitive experience for both novice and seasoned investors. 📊  
+designed to provide a seamless and intuitive experience for both novice and seasoned investors. 📊
 
 🚀 Project Overview
 
 Stock Pilot is a comprehensive mobile application designed to simplify the complexities of stock market investment. With a user-friendly interface and a rich set of 
 features, Stock Pilot empowers users to make informed investment decisions and keep track of their portfolio effortlessly. Whether you're a beginner exploring the stock
-market or an experienced investor, Stock Pilot is equipped with the tools you need to succeed. 
+market or an experienced investor, Stock Pilot is equipped with the tools you need to succeed.
 
 🌟 Features: 
 
